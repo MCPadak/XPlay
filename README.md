@@ -16,4 +16,4 @@ New animations (will probably come in last, gameplay is the main objective !)
 Like BG3, this mod intents to place the player in ethical dilemnas, or even face to immoral choices. That's fine as long as real world laws are respected. Expect a naughtiness level of 8/10.
 
 ## Disclaimer : 
-Don't shapeshift to a giant to abuse the looser of a fight in real life. What's fun in game must stay in game.!
+Don't shapeshift to a giant to abuse the looser of a fight in real life. What's fun in game must stay in game !
